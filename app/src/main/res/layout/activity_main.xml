@@ -78,8 +78,8 @@
         android:layout_width="201dp"
         android:layout_height="367dp"
         app:srcCompat="@drawable/VetPet"
-        tools:layout_editor_absoluteX="111dp"
-        tools:layout_editor_absoluteY="-37dp" />
+        tools:layout_editor_absoluteX="106dp"
+        tools:layout_editor_absoluteY="-36dp" />
 
     <TextView
         android:id="@+id/textView2"
